@@ -1,0 +1,66 @@
+
+[
+
+{
+    "name" : "joe",
+    "employeeID" : 123,
+    "department" : "IT",
+    "salary" : 100000
+},
+{
+    "name" : "ava",
+    "employeeID" : 254,
+    "department" : "Networking",
+    "salary" : 95000
+},
+{
+    "name" : "brad",
+    "employeeID" : 732,
+    "department" : "IT",
+    "salary" : 100000
+},
+{
+    "name" : "precious",
+    "employeeID" : 625,
+    "department" : "IT",
+    "salary" : 95000
+},
+{
+    "name" : "jermaine",
+    "employeeID" : 236,
+    "department" : "Networking",
+    "salary" : 95000
+},
+{
+    "name" : "zara",
+    "employeeID" : 887,
+    "department" : "IT",
+    "salary" : 100000
+},
+{
+    "name" : "mateo",
+    "employeeID" : 924,
+    "department" : "IT",
+    "salary" : 100000
+},
+{
+    "name" : "kiyah",
+    "employeeID" : 642,
+    "department" : "Networking",
+    "salary" : 95000
+},
+{
+    "name" : "james",
+    "employeeID" : 901,
+    "department" : "IT",
+    "salary" : 100000
+},
+{
+    "name" : "jose",
+    "employeeID" : 324,
+    "department" : "Networking",
+    "salary" : 100000
+}
+
+
+]

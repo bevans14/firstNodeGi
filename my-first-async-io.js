@@ -1,6 +1,6 @@
 
-const fs = require('fs')
-let file = process.argv[2]
+const fs = require('fs') // loading in package
+let file = process.argv[2] // process is a big object with methods and properties, but the specifit one i need to use is .argv
 
 fs.readFile(file, function (err, data){ // when the file is read, the function is triggered
     let contents = data.toString().split('\n')
